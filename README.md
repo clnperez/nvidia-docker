@@ -1,3 +1,10 @@
+# !!!!! USE MY PUBLIC GIT REPO !!!! 
+## Since I have OSSC approval to push this to nvidia's repo I'm working from
+
+![https://github.com/clnperez/nvidia-docker](https://github.com/clnperez/nvidia-docker)
+
+
+
 # NVIDIA Docker
 
 This repository includes utilities to build and run NVIDIA Docker images.
